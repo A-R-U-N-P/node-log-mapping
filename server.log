@@ -1,0 +1,6 @@
+[2024-09-24T12:23:03.553Z] INFO:api:/users, reqId=ZRVF5vXfY7, message=Incoming request
+[2024-09-24T12:23:03.599Z] INFO:api:/customers, reqId=1QW2_enUuo, message=Incoming request
+[2024-09-24T12:23:03.602Z] INFO:api:/customers, reqId=1QW2_enUuo, message=outgoing request
+[2024-09-24T12:23:23.592Z] INFO:api:/users, reqId=ZRVF5vXfY7, message=An error occurred
+[2024-09-24T12:23:23.595Z] INFO:api:/users, reqId=ZRVF5vXfY7, message=outgoing request
+[2024-09-24T12:23:23.613Z] INFO:api:/customers, reqId=uLquJgJ_Mz, message=Incoming request
